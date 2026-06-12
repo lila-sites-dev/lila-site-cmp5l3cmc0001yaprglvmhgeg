@@ -1,31 +1,27 @@
 ---
-title: Book a Demo
-description: See DINGG in action — book a walkthrough of the all-in-one software for salon, spa, and beauty clinic operations.
+title: Book an Appointment
+description: Book an appointment at Avenue salon in Mumbai — pick a service, choose a time, and we'll confirm your visit.
 sections:
   - type: hero
     variant: centered-stacked
     eyebrow: Book
-    title: See it in action
-    subtitle: Pick a time and we'll walk you through how DINGG streamlines bookings, memberships, and reporting for your salon, spa, or clinic.
-    ctaText: Book a demo
-    ctaHref: https://dingg.app/
+    title: Book an appointment
+    subtitle: Pick a service, choose a time, and we'll be in touch to confirm your visit.
   - type: services-grid
     variant: feature-cards
-    heading: What to expect on the call
+    heading: What to expect
     items:
-      - title: Walkthrough
-        body: A guided tour of DINGG's all-in-one tools for appointments, memberships, and reporting.
+      - title: Choose your service
+        body: Browse our treatments and tell us what you're after.
         icon: "01"
-      - title: Q&A
-        body: Bring your questions about running your salon, spa, or beauty clinic on one platform.
+      - title: Pick a time
+        body: Let us know the day and slot that suits you best.
         icon: "02"
-      - title: Pricing for your scale
-        body: See how DINGG fits your business, whether you run a single location or several.
+      - title: We confirm
+        body: We'll reach out to lock in your appointment.
         icon: "03"
   - type: cta
     variant: centered-band
-    title: Ready to streamline your operations?
-    body: Book a demo and see how DINGG brings bookings, memberships, and reporting into one place.
-    ctaText: Book a demo
-    ctaHref: https://dingg.app/
+    title: Ready when you are
+    body: Tell us what you need and we'll find a time that works for your visit to Avenue salon in Mumbai.
 ---
