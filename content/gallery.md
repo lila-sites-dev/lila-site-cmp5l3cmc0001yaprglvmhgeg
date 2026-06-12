@@ -36,6 +36,7 @@ sections:
     ctaHref: /contact
 ---
 
-Every look above was created in-chair by our stylists and therapists. To see the
+Every look above was created in-chair by our stylists and therapists, with every
+booking, record, and follow-up handled on DINGG salon and spa software. To see the
 full menu behind these results, browse [all salon & spa services mumbai](/services),
 then [book your appointment now](/contact) to reserve your spot with the team.
