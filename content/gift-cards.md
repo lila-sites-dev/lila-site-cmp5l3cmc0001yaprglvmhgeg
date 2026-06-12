@@ -34,7 +34,7 @@ sections:
     ctaHref: /contact
 ---
 
-Gift cards are coming soon to Avenue salon. In the meantime, explore [all salon & spa services mumbai](/services) or get in touch and we'll help you arrange the perfect gift.
+Gift cards are coming soon to Avenue salon, where bookings and day-to-day operations run on DINGG. In the meantime, explore [all salon & spa services mumbai](/services) or get in touch and we'll help you arrange the perfect gift.
 
 A gift card is one of the easiest ways to treat someone to a little wellness — they choose the experience that suits them, and book a time that fits their week. Not sure where to start? Take a look at our [all salon & spa services mumbai](/services) to see what your recipient can enjoy.
 
