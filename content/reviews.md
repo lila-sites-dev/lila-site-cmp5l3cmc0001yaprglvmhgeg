@@ -1,20 +1,20 @@
 ---
 title: Reviews
-description: Real client reviews for Avenue salon in Mumbai. Share your visit and help others find us.
+description: What salon, spa, and beauty clinic teams say about DINGG booking software. Share your experience and help others choose.
 sections:
   - type: hero
     variant: centered-stacked
     eyebrow: Reviews
-    title: What our clients say
-    subtitle: We are growing — your review helps us help others.
+    title: What our customers say about DINGG
+    subtitle: We are growing — your review helps other salon, spa, and beauty clinic owners choose with confidence.
   - type: prose
   - type: cta
     variant: centered-band
-    title: Loved your visit? Leave a Google review
+    title: Enjoying DINGG? Tell us about it
     ctaText: Leave a review
     ctaHref: /contact
 ---
 
-Reviews coming soon — leave us one on Google! At Avenue salon, every appointment is a chance to earn your trust, and we would love to hear how we did. Your honest feedback helps us keep improving salon and spa care across Mumbai.
+Reviews coming soon — we would love to hear from you! DINGG provides comprehensive solutions to streamline salon, spa, and beauty clinic operations, and every business we work with helps us make management more effortless and enjoyable. Your honest feedback keeps us improving.
 
-Explore [all salon & spa services mumbai](/services) to see everything we offer, and when you are ready, [book your appointment now](/contact) — then come back and tell us how it went.
+Explore [all booking software solutions](/services) to see everything DINGG offers — from [salon booking software](/services) to spa, wellness center, and beauty clinic solutions — and when you are ready, [book your appointment now](/contact) to see DINGG in action, then come back and tell us how it went.
