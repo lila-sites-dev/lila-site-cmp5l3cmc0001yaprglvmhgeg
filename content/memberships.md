@@ -33,6 +33,6 @@ sections:
 
 ## Memberships coming soon
 
-Avenue salon memberships are launching soon in Mumbai. We're building a simple loyalty plan around the treatments you love — so you can see exactly what you pay and exactly what you get back on every visit.
+Avenue salon memberships are launching soon in Mumbai, powered by DINGG. We're building a simple loyalty plan around the treatments you love — so you can see exactly what you pay and exactly what you get back on every visit, with every booking and renewal handled through DINGG.
 
 While we finish the details, you can still explore [all salon & spa services mumbai](/services) and reserve a chair today. Want a spot the moment memberships go live? You can [book your appointment now](/contact) to join the waitlist, and we'll tell you more in person.
