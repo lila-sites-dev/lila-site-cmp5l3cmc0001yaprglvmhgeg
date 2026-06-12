@@ -1,12 +1,12 @@
 ---
 title: "Avenue salon"
-description: "Avenue salon in mumbai — salon, spa, and beauty clinic services with easy online appointment booking. Book your visit today."
+description: "Avenue salon in mumbai — salon, spa, and beauty clinic services with simple online appointment booking. Book your next visit today."
 sections:
   - type: hero
     variant: gradient-canvas
-    eyebrow: "Salon, spa & beauty clinic · mumbai"
-    title: "Salon, spa & beauty care, all in one place"
-    subtitle: "Avenue salon brings salon, spa, and beauty clinic services together in mumbai, with simple online booking."
+    eyebrow: "Salon · spa · beauty clinic in mumbai"
+    title: "Salon, spa and beauty care, all in one place"
+    subtitle: "Avenue salon brings salon, spa, and beauty clinic services together in mumbai, with simple online appointment booking."
     ctaText: "Book an appointment"
     ctaHref: "#book"
   - type: services-grid
@@ -14,23 +14,23 @@ sections:
     heading: "What we do"
     items:
       - title: "Salon"
-        body: "Haircuts, styling, and grooming, booked online and run on time."
+        body: "Cuts, colour, and styling for every look, booked online and run on time."
         href: "/services"
         icon: "01"
       - title: "Spa & wellness"
-        body: "Relaxing spa and wellness treatments, reserved in a few taps."
+        body: "Calming spa and wellness treatments you can reserve in a few taps."
         href: "/services"
         icon: "02"
       - title: "Beauty clinic"
-        body: "Skin and beauty clinic care, with appointments that fit your schedule."
+        body: "Skin and beauty clinic care with appointments that fit your schedule."
         href: "/services"
         icon: "03"
   - type: prose
     html: '<p>Avenue salon brings together <a href="/services">all salon &amp; spa services mumbai</a> under one roof. New here? Start with <a href="/services/example">example in mumbai</a>, then <a href="/contact">book your appointment now</a>.</p>'
   - type: cta
     variant: centered-band
-    title: "Book your visit to Avenue salon"
-    body: "Tell us what you're looking for and we'll find a time that works for you in mumbai. We're here to make your next salon, spa, or beauty visit effortless."
+    title: "Ready for your next visit to Avenue salon?"
+    body: "Pick a service and a time that works for you in mumbai, and we'll take care of the rest."
     ctaText: "Book an appointment"
     ctaHref: "#book"
 ---
