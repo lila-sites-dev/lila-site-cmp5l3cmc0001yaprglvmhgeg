@@ -1,122 +1,42 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T05:52:45.797Z",
   "source": "color-picker",
   "palette": {
-    "primary": {
-      "hex": "#7455f7",
-      "onHex": "#ffffff",
-      "contrast": 4.8
-    },
-    "secondary": {
-      "hex": "#22174f",
-      "onHex": "#ffffff",
-      "contrast": 16.1
-    },
-    "accent": {
-      "hex": "#dd3cbd",
-      "onHex": "#000000",
-      "contrast": 5.5
-    },
-    "surface": {
-      "hex": "#fcfcff",
-      "onHex": "#121018",
-      "contrast": 18.4
-    },
-    "surfaceAlt": {
-      "hex": "#f5f3fe",
-      "onHex": "#121018",
-      "contrast": 17.2
-    },
-    "text": {
-      "hex": "#121018"
-    },
-    "muted": {
-      "hex": "#656076"
-    },
-    "border": {
-      "hex": "#eae6fe"
-    },
-    "scale": {
-      "primary50": "#e8dcff",
-      "primary100": "#d0b9fe",
-      "primary200": "#b598fc",
-      "primary300": "#9876fa",
-      "primary400": "#7455f7",
-      "primary500": "#553ddb",
-      "primary600": "#3126bf",
-      "primary700": "#000da5",
-      "primary800": "#00008a",
-      "primary900": "#000000"
-    }
+    "primary":    { "hex": "#ea580c", "onHex": "#ffffff", "contrast": 4.7 },
+    "secondary":  { "hex": "#431407", "onHex": "#ffffff", "contrast": 14.9 },
+    "accent":     { "hex": "#0d9488", "onHex": "#ffffff", "contrast": 4.8 },
+    "surface":    { "hex": "#fffbf5", "onHex": "#1c1917", "contrast": 17.1 },
+    "surfaceAlt": { "hex": "#fef3c7", "onHex": "#1c1917", "contrast": 15.8 },
+    "text":       { "hex": "#1c1917" },
+    "muted":      { "hex": "#78716c" },
+    "border":     { "hex": "#fde68a" }
   },
   "typography": {
     "display": {
-      "family": "Fraunces",
-      "weights": [
-        500,
-        700
-      ],
-      "googleFontHref": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap"
+      "family": "Space Grotesk",
+      "weights": [500, 700],
+      "googleFontHref": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap"
     },
-    "body": {
-      "family": "Inter",
-      "weights": [
-        400,
-        500,
-        600
-      ]
-    },
-    "scale": "standard",
-    "radius": "rounded"
+    "body":   { "family": "Plus Jakarta Sans", "weights": [400, 500, 600] },
+    "scale":  "standard",
+    "radius": "sharp"
   },
   "layout": {
-    "direction": "friendly",
-    "density": "comfortable",
-    "motion": "subtle"
+    "direction": "bold",
+    "density":   "airy",
+    "motion":    "subtle"
   },
   "sections": {
-    "home": [
-      {
-        "type": "hero",
-        "variant": "split-image-right"
-      },
-      {
-        "type": "services-grid",
-        "variant": "icon-cards"
-      },
-      {
-        "type": "cta",
-        "variant": "centered-band"
-      }
+    "home":    [
+      { "type": "hero",           "variant": "centered-stacked" },
+      { "type": "services-grid",  "variant": "icon-cards" },
+      { "type": "cta",            "variant": "centered-band" }
     ],
     "default": [
-      {
-        "type": "hero",
-        "variant": "centered-stacked"
-      },
-      {
-        "type": "prose"
-      },
-      {
-        "type": "cta",
-        "variant": "centered-band"
-      }
+      { "type": "hero",           "variant": "centered-stacked" },
+      { "type": "prose"          },
+      { "type": "cta",            "variant": "centered-band" }
     ]
   },
-  "imageCues": {
-    "hero": {
-      "query": "modern professional workspace",
-      "source": "auto"
-    },
-    "about": {
-      "query": "team portrait small business",
-      "source": "source-site"
-    },
-    "services": {
-      "query": "service detail close-up",
-      "source": "auto"
-    }
-  },
-  "rationale": "Direction \"friendly\" picked for generic business. Palette built from base #7c5cff; primary contrast against white = 4.8. Typography: fraunces-inter — Fraunces (variable serif) over Inter — warm, considered, reads as artisanal but modern."
+  "rationale": "Bold direction: warm orange primary against a paper-cream surface, teal accent for contrast, geometric Space Grotesk + Plus Jakarta Sans for a clean modern feel. Sharp (no-radius) corners reinforce the editorial tone. Centered-stacked hero + icon-cards grid keeps the page calm and message-led."
 }
