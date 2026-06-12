@@ -1,36 +1,36 @@
 ---
-title: "Avenue salon"
-description: "Avenue salon in mumbai — salon, spa, and beauty clinic services with easy online appointment booking. Book your visit today."
+title: "DINGG — Salon, Spa & Beauty Clinic Software"
+description: "DINGG provides comprehensive solutions to streamline salon, spa, and beauty clinic operations, making management effortless and enjoyable. All-in-one booking software."
 sections:
   - type: hero
     variant: gradient-canvas
-    eyebrow: "Salon, spa & beauty clinic · mumbai"
-    title: "Salon, spa & beauty care, all in one place"
-    subtitle: "Avenue salon brings salon, spa, and beauty clinic services together in mumbai, with simple online booking."
-    ctaText: "Book an appointment"
+    eyebrow: "Salon, Spa & Beauty Clinic Software"
+    title: "All-in-one software for salons, spas & beauty clinics"
+    subtitle: "DINGG brings booking, management, and growth together in one place — so running your salon, spa, or beauty clinic feels effortless and enjoyable."
+    ctaText: "Get started with DINGG"
     ctaHref: "/contact"
   - type: services-grid
     variant: feature-cards
-    heading: "What we do"
+    heading: "Booking software for every business"
     items:
-      - title: "Salon"
-        body: "Haircuts, styling, and grooming, booked online and run on time."
+      - title: "Salon booking software"
+        body: "Streamline bookings, schedules, and day-to-day salon operations in one calm dashboard."
         href: "/services"
         icon: "01"
-      - title: "Spa & wellness"
-        body: "Relaxing spa and wellness treatments, reserved in a few taps."
+      - title: "Spa & wellness booking software"
+        body: "Manage spa and wellness center appointments, memberships, and staff with ease."
         href: "/services"
         icon: "02"
-      - title: "Beauty clinic"
-        body: "Skin and beauty clinic care, with appointments that fit your schedule."
+      - title: "Beauty & skin clinic software"
+        body: "Run beauty clinic and skin clinic operations smoothly, from booking to follow-up."
         href: "/services"
         icon: "03"
   - type: prose
-    html: '<p>Avenue salon brings together <a href="/services">all salon &amp; spa services mumbai</a> under one roof. New here? Start with <a href="/services/example">example in mumbai</a>, then <a href="/contact">book your appointment now</a>.</p>'
+    html: '<p>DINGG is comprehensive, all-in-one software that streamlines salon, spa, and beauty clinic operations. Explore <a href="/services">all DINGG booking software</a> — including salon, barbershop, nail salon, spa, wellness center, beauty clinic, and more — then <a href="/contact">book your appointment now</a> to see how DINGG works for your business.</p>'
   - type: cta
     variant: centered-band
-    title: "Book your visit to Avenue salon"
-    body: "Tell us what you're looking for and we'll find a time that works for you in mumbai. We're here to make your next salon, spa, or beauty visit effortless."
-    ctaText: "Book an appointment"
+    title: "See what DINGG can do for your business"
+    body: "Comprehensive, all-in-one software for salons, spas, and beauty clinics. Tell us about your business and we'll show you how DINGG makes management effortless and enjoyable."
+    ctaText: "Get started with DINGG"
     ctaHref: "/contact"
 ---
