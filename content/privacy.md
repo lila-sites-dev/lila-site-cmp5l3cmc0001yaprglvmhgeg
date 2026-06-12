@@ -10,10 +10,10 @@ sections:
   - type: prose
 ---
 
-Avenue salon respects your privacy. This policy explains what personal
-information we collect when you visit our website or book with us, how we use
-it, and the choices you have. By using our website or services, you agree to
-the practices described here.
+Avenue salon, powered by DINGG, respects your privacy. This policy explains
+what personal information we collect when you visit our website or book with
+us, how we use it, and the choices you have. By using our website or DINGG
+services, you agree to the practices described here.
 
 ## What we collect
 
@@ -56,7 +56,8 @@ below and we will respond within a reasonable timeframe.
 ## How to contact us
 
 If you have questions about this policy or how we handle your information,
-please reach out to **Avenue salon** in Mumbai. The quickest way to reach us
+please reach out to **Avenue salon**, powered by DINGG, in Mumbai. The
+quickest way to reach us
 is through our booking page, where you can also leave a message with your
 enquiry.
 
