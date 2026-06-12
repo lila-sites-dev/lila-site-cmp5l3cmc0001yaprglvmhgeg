@@ -1,5 +1,5 @@
 ---
-title: Book an Appointment
+title: Book an appointment
 description: Book an appointment at Avenue salon in Mumbai — pick a service, choose a time, and we'll confirm your visit.
 sections:
   - type: hero
@@ -11,14 +11,14 @@ sections:
     variant: feature-cards
     heading: What to expect
     items:
-      - title: Choose your service
-        body: Browse our treatments and tell us what you're after.
+      - title: Pick a service
+        body: Tell us which treatment you're after and we'll match it to the right time.
         icon: "01"
-      - title: Pick a time
-        body: Let us know the day and slot that suits you best.
+      - title: Choose a time
+        body: Let us know the day and slot that suits you, and we'll find a fit.
         icon: "02"
-      - title: We confirm
-        body: We'll reach out to lock in your appointment.
+      - title: We'll confirm
+        body: Expect a quick reply back to lock in your appointment.
         icon: "03"
   - type: cta
     variant: centered-band
