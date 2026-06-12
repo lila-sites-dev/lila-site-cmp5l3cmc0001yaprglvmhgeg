@@ -1,49 +1,36 @@
 ---
-title: DINGG
-description: DINGG is all-in-one salon, spa, and beauty clinic software that brings bookings, memberships, marketing, and reporting into one place.
+title: "Avenue salon"
+description: "Avenue salon in mumbai — salon, spa, and beauty clinic services with easy online appointment booking. Book your visit today."
 sections:
   - type: hero
     variant: gradient-canvas
-    eyebrow: All-in-one salon & spa software
-    title: Salon and spa management, made effortless
-    subtitle: DINGG brings bookings, memberships, marketing, and reporting together in one all-in-one platform for salons, spas, and beauty clinics.
-    ctaText: Book your appointment now
-    ctaHref: /contact
+    eyebrow: "Salon, spa & beauty clinic · mumbai"
+    title: "Salon, spa & beauty care, all in one place"
+    subtitle: "Avenue salon brings salon, spa, and beauty clinic services together in mumbai, with simple online booking."
+    ctaText: "Book an appointment"
+    ctaHref: "#book"
   - type: services-grid
     variant: feature-cards
-    heading: What we do
+    heading: "What we do"
     items:
-      - title: Salon Booking Software
-        body: Bring appointments, memberships, and reporting together for your salon in one dashboard.
-        href: /services/salon-booking-software
+      - title: "Salon"
+        body: "Haircuts, styling, and grooming, booked online and run on time."
+        href: "/services"
         icon: "01"
-      - title: Spa Booking Software
-        body: Streamline spa bookings, memberships, and marketing without the busywork.
-        href: /services/spa-booking-software
+      - title: "Spa & wellness"
+        body: "Relaxing spa and wellness treatments, reserved in a few taps."
+        href: "/services"
         icon: "02"
-      - title: Beauty Clinic Booking Software
-        body: Manage beauty clinic appointments and client records in one organized place.
-        href: /services/beauty-clinic-booking-software
+      - title: "Beauty clinic"
+        body: "Skin and beauty clinic care, with appointments that fit your schedule."
+        href: "/services"
         icon: "03"
-      - title: Barbershop Booking Software
-        body: Keep your barbershop on schedule with online bookings and clear reporting.
-        href: /services/barbershop-booking-software
-        icon: "04"
-      - title: Nail Salon Booking Software
-        body: Run nail salon appointments, memberships, and marketing from one calm hub.
-        href: /services/nail-salon-booking-software
-        icon: "05"
-      - title: Wellness Center Booking Software
-        body: Coordinate wellness center bookings, memberships, and reporting effortlessly.
-        href: /services/wellness-center-booking-software
-        icon: "06"
   - type: prose
+    html: '<p>Avenue salon brings together <a href="/services">all salon &amp; spa services mumbai</a> under one roof. New here? Start with <a href="/services/example">example in mumbai</a>, then <a href="/contact">book your appointment now</a>.</p>'
   - type: cta
     variant: centered-band
-    title: Ready to make management effortless?
-    body: See how DINGG brings your salon, spa, or clinic together in one place.
-    ctaText: book your appointment now
-    ctaHref: /contact
+    title: "Book your visit to Avenue salon"
+    body: "Tell us what you're looking for and we'll find a time that works for you in mumbai. We're here to make your next salon, spa, or beauty visit effortless."
+    ctaText: "Book an appointment"
+    ctaHref: "#book"
 ---
-
-Explore [all salon & spa services mumbai](/services), or see a sample build with [example in mumbai](/services/example). Every DINGG plan brings bookings, memberships, marketing, and reporting into one place.
