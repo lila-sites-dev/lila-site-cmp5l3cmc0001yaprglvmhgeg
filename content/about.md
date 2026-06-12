@@ -27,6 +27,10 @@ finish, an honest recommendation, and the kind of welcome that makes you want to
 come back. We'd rather do fewer things beautifully than promise everything to
 everyone.
 
+Behind the scenes, we run Avenue salon on DINGG — all-in-one salon, spa, and
+beauty clinic software that keeps booking and the day-to-day organised. It's what
+lets us spend less time on admin and more time looking after you.
+
 If you're new to us, the best place to start is to browse our
 [all salon & spa services mumbai](/services) and find what suits you, then
 [book your appointment now](/contact) and come see the studio for yourself. We'll
