@@ -8,7 +8,7 @@ sections:
     title: "Salon, spa & beauty care, all in one place"
     subtitle: "Avenue salon brings salon, spa, and beauty clinic services together in mumbai, with simple online booking."
     ctaText: "Book an appointment"
-    ctaHref: "#book"
+    ctaHref: "/contact"
   - type: services-grid
     variant: feature-cards
     heading: "What we do"
@@ -32,5 +32,5 @@ sections:
     title: "Book your visit to Avenue salon"
     body: "Tell us what you're looking for and we'll find a time that works for you in mumbai. We're here to make your next salon, spa, or beauty visit effortless."
     ctaText: "Book an appointment"
-    ctaHref: "#book"
+    ctaHref: "/contact"
 ---
