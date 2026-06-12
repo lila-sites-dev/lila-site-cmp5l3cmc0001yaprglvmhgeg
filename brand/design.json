@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "source": "color-picker",
+  "palette": {
+    "primary":    { "hex": "#ea580c", "onHex": "#ffffff", "contrast": 4.7 },
+    "secondary":  { "hex": "#431407", "onHex": "#ffffff", "contrast": 14.9 },
+    "accent":     { "hex": "#0d9488", "onHex": "#ffffff", "contrast": 4.8 },
+    "surface":    { "hex": "#fffbf5", "onHex": "#1c1917", "contrast": 17.1 },
+    "surfaceAlt": { "hex": "#fef3c7", "onHex": "#1c1917", "contrast": 15.8 },
+    "text":       { "hex": "#1c1917" },
+    "muted":      { "hex": "#78716c" },
+    "border":     { "hex": "#fde68a" }
+  },
+  "typography": {
+    "display": {
+      "family": "Space Grotesk",
+      "weights": [500, 700],
+      "googleFontHref": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap"
+    },
+    "body":   { "family": "Plus Jakarta Sans", "weights": [400, 500, 600] },
+    "scale":  "standard",
+    "radius": "sharp"
+  },
+  "layout": {
+    "direction": "bold",
+    "density":   "airy",
+    "motion":    "subtle"
+  },
+  "sections": {
+    "home":    [
+      { "type": "hero",           "variant": "centered-stacked" },
+      { "type": "services-grid",  "variant": "icon-cards" },
+      { "type": "cta",            "variant": "centered-band" }
+    ],
+    "default": [
+      { "type": "hero",           "variant": "centered-stacked" },
+      { "type": "prose"          },
+      { "type": "cta",            "variant": "centered-band" }
+    ]
+  },
+  "rationale": "Bold direction: warm orange primary against a paper-cream surface, teal accent for contrast, geometric Space Grotesk + Plus Jakarta Sans for a clean modern feel. Sharp (no-radius) corners reinforce the editorial tone. Centered-stacked hero + icon-cards grid keeps the page calm and message-led."
+}

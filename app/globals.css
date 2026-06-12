@@ -1,0 +1,110 @@
+/* Tailwind v4 is CSS-first: tokens live in @theme below, sourced from the
+ * generated CSS file emitted by scripts/applyDesign.mjs (which reads
+ * brand/design.json). The build agent never edits this file — the path-allowlist
+ * in lilaBranchScan rejects diffs here. */
+
+@import "tailwindcss";
+@import "./theme.generated.css";
+
+@theme {
+  /* Color roles → Tailwind utility classes (bg-primary, text-on-primary, etc.).
+   * Each maps to a --brand-* var defined in theme.generated.css. Swapping the
+   * design.json regenerates the underlying values without touching this file. */
+  --color-primary:        var(--brand-primary);
+  --color-on-primary:     var(--brand-on-primary);
+  --color-secondary:      var(--brand-secondary);
+  --color-on-secondary:   var(--brand-on-secondary);
+  --color-accent:         var(--brand-accent);
+  --color-on-accent:      var(--brand-on-accent);
+  --color-surface:        var(--brand-surface);
+  --color-on-surface:     var(--brand-on-surface);
+  --color-surface-alt:    var(--brand-surface-alt);
+  --color-on-surface-alt: var(--brand-on-surface-alt);
+  --color-ink:            var(--brand-text);
+  --color-muted:          var(--brand-muted);
+  --color-line:           var(--brand-border);
+
+  /* Typography */
+  --font-display: var(--brand-font-display);
+  --font-sans:    var(--brand-font-body);
+
+  /* Radii */
+  --radius-card: var(--brand-radius-card);
+}
+
+/* Base layer — minimal page chrome; everything else lives in the section components. */
+html, body {
+  background: var(--brand-surface);
+  color: var(--brand-text);
+  font-family: var(--brand-font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Restore native list / heading semantics for the .prose-body class used by the
+ * Prose section (markdown bodies rendered via dangerouslySetInnerHTML). */
+.prose-body h1,
+.prose-body h2,
+.prose-body h3 {
+  font-family: var(--brand-font-display);
+  letter-spacing: -0.01em;
+  margin-top: 1.75em;
+  margin-bottom: 0.5em;
+  line-height: 1.2;
+}
+.prose-body h1 { font-size: 2rem; }
+.prose-body h2 { font-size: 1.5rem; }
+.prose-body h3 { font-size: 1.2rem; }
+.prose-body p { margin: 0.9em 0; line-height: 1.65; }
+.prose-body ul,
+.prose-body ol { padding-left: 1.5em; margin: 0.9em 0; }
+.prose-body li { margin: 0.35em 0; }
+.prose-body a {
+  color: var(--brand-primary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.prose-body strong { font-weight: 700; }
+
+/* Lead capture form — global because it's injected into pages outside the
+ * section composer too. Section components themselves carry no .lead-form rules. */
+.lead-form {
+  margin-top: 56px;
+  padding: 28px;
+  border: 1px solid var(--brand-border);
+  border-radius: var(--brand-radius-card);
+  display: grid;
+  gap: 12px;
+  background: var(--brand-surface-alt);
+  max-width: 540px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.lead-form h3 {
+  margin: 0;
+  font-family: var(--brand-font-display);
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: var(--brand-text);
+}
+.lead-form input,
+.lead-form textarea {
+  padding: 12px 14px;
+  border: 1px solid var(--brand-border);
+  border-radius: 10px;
+  font-family: var(--brand-font-body);
+  font-size: 0.95rem;
+  background: var(--brand-surface);
+  color: var(--brand-text);
+}
+.lead-form button {
+  padding: 12px 18px;
+  border: 0;
+  border-radius: 10px;
+  background: var(--brand-primary);
+  color: var(--brand-on-primary);
+  font-family: var(--brand-font-body);
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+.lead-form button:disabled { opacity: 0.55; cursor: default; }
