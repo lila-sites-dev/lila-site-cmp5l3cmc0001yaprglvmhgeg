@@ -11,7 +11,8 @@ sections:
 ---
 
 These terms cover how bookings, cancellations, and refunds work at Avenue salon
-in Mumbai. They help us keep our schedule fair for every guest and our team. By
+in Mumbai, including appointments booked through DINGG, our online booking
+system. They help us keep our schedule fair for every guest and our team. By
 booking an appointment, you agree to the terms below.
 
 ## Cancellation
