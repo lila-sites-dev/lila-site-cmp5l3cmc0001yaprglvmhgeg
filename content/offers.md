@@ -1,24 +1,26 @@
 ---
 title: Offers
-description: Current promotions from Avenue salon in Mumbai — check back for seasonal savings.
+description: Current promotions on DINGG — all-in-one salon, spa, and beauty clinic software.
 sections:
   - type: hero
     variant: gradient-canvas
     eyebrow: Offers
-    title: Current promotions
-    subtitle: Seasonal savings on our salon and spa services, all in one place.
+    title: Current promotions on DINGG
+    subtitle: Seasonal savings on the all-in-one software that streamlines salon, spa, and beauty clinic operations.
   - type: prose
   - type: cta
     variant: centered-band
-    title: Book to redeem
-    subtitle: Ready when you are — reserve your slot and we'll take care of the rest.
+    title: Ready to get started?
+    subtitle: Bring effortless, all-in-one management to your business — we'll help you set up.
     ctaText: Book your appointment now
     ctaHref: /contact
 ---
 
 We don't have any active promotions running right now. We refresh this page
-whenever a new seasonal offer goes live, so check back soon for the latest deals.
+whenever a new seasonal offer on DINGG goes live, so check back soon for the
+latest deals.
 
-In the meantime, you can explore [all salon & spa services mumbai](/services) to
-see everything Avenue salon offers, or [book your appointment now](/contact) and
-our team will help you plan your visit.
+In the meantime, you can explore [all salon spa software mumbai](/services) to
+see everything DINGG offers — from [salon booking software](/services) to spa,
+wellness, and beauty clinic tools — or [book your appointment now](/contact) and
+our team will walk you through how DINGG can streamline your operations.
