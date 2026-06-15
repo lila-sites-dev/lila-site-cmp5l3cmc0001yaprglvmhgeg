@@ -1,6 +1,6 @@
 ---
 title: Privacy policy
-description: How Avenue salon collects, uses, and protects your personal information.
+description: How DINGG collects, uses, and protects your personal information.
 sections:
   - type: hero
     variant: centered-stacked
@@ -10,16 +10,16 @@ sections:
   - type: prose
 ---
 
-Avenue salon, powered by DINGG, respects your privacy. This policy explains
-what personal information we collect when you visit our website or book with
-us, how we use it, and the choices you have. By using our website or DINGG
-services, you agree to the practices described here.
+DINGG respects your privacy. This policy explains what personal information we
+collect when you visit our website or get in touch, how we use it, and the
+choices you have. By using our website or services, you agree to the practices
+described here.
 
 ## What we collect
 
 We collect information you provide directly to us, such as your name, phone
-number, and any details you share when you enquire about or book an
-appointment. We also collect limited technical information automatically when
+number, and any details you share when you enquire about or request a demo of
+our software. We also collect limited technical information automatically when
 you browse the site, including your device type, browser, and pages viewed.
 We collect only what we need to respond to you and to run our services. If you
 would like to see [all salon & spa services mumbai](/services) we offer before
@@ -29,10 +29,10 @@ sharing any details, you can browse them first.
 
 We use the information we collect to:
 
-- Schedule, confirm, and manage your appointments.
+- Schedule, confirm, and manage demos and appointments.
 - Respond to your enquiries and provide customer support.
-- Improve our website, services, and the experience we offer.
-- Send service-related messages about bookings you have made with us.
+- Improve our website, software, and the experience we offer.
+- Send service-related messages about requests you have made with us.
 
 We do not sell your personal information. We share it only with trusted
 service providers who help us operate our business, and only as needed to
@@ -55,10 +55,8 @@ below and we will respond within a reasonable timeframe.
 
 ## How to contact us
 
-If you have questions about this policy or how we handle your information,
-please reach out to **Avenue salon**, powered by DINGG, in Mumbai. The
-quickest way to reach us
-is through our booking page, where you can also leave a message with your
-enquiry.
+If you have questions about this policy or how DINGG handles your information,
+please reach out to our team. The quickest way to reach us is through our
+booking page, where you can also leave a message with your enquiry.
 
-Ready to visit us? You can [book your appointment now](/contact).
+Ready to see DINGG in action? You can [book your appointment now](/contact).
