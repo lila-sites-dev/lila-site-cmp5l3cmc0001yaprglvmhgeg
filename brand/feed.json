@@ -1,13 +1,21 @@
 {
+  "llmsTxt": "# DINGG\n\n## Contact\n- Website: https://dingg.app/\n\n## Services\n- salon-booking-software\n- barbershop-booking-software\n- nail-salon-booking-software\n- pet-salon-booking-software\n- spa-booking-software\n- wellness-center-booking-software\n- beauty-clinic-booking-software\n- skin-clinic-booking-software\n- tattoo-studio-booking-software\n- gym-booking-software\n",
   "jsonLd": {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Avenue salon",
-    "telephone": "9876545678",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "mumbai"
-    }
-  },
-  "llmsTxt": "Avenue salon — spa / wellness.\n\n## Contact\n- Phone: 9876545678"
+    "name": "DINGG",
+    "url": "https://dingg.app/",
+    "makesOffer": [
+      { "@type": "Offer", "name": "salon-booking-software" },
+      { "@type": "Offer", "name": "barbershop-booking-software" },
+      { "@type": "Offer", "name": "nail-salon-booking-software" },
+      { "@type": "Offer", "name": "pet-salon-booking-software" },
+      { "@type": "Offer", "name": "spa-booking-software" },
+      { "@type": "Offer", "name": "wellness-center-booking-software" },
+      { "@type": "Offer", "name": "beauty-clinic-booking-software" },
+      { "@type": "Offer", "name": "skin-clinic-booking-software" },
+      { "@type": "Offer", "name": "tattoo-studio-booking-software" },
+      { "@type": "Offer", "name": "gym-booking-software" }
+    ]
+  }
 }
