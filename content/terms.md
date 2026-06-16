@@ -1,61 +1,70 @@
 ---
-title: Terms & cancellation
-description: Cancellation, no-show, late arrival, and refund terms for Avenue salon in Mumbai.
+title: Terms of Service
+description: The terms that govern your use of DINGG salon, spa, and beauty clinic software.
 sections:
   - type: hero
     variant: centered-stacked
-    title: Terms & cancellation
-    subtitle: Clear, fair terms so every visit to Avenue salon runs smoothly — for you and the team caring for you.
-    eyebrow: Avenue salon · Mumbai
+    title: Terms of Service
+    subtitle: Clear, fair terms so you always know where you stand when you use DINGG.
+    eyebrow: DINGG
   - type: prose
+  - type: cta
+    variant: centered-band
+    title: Ready to run your business on DINGG?
+    ctaText: Visit dingg.app
+    ctaHref: https://dingg.app/
 ---
 
-These terms cover how bookings, cancellations, and refunds work at Avenue salon
-in Mumbai. They help us keep our schedule fair for every guest and our team. By
-booking an appointment, you agree to the terms below.
+These terms govern your use of DINGG, the all-in-one software that helps salons,
+spas, and beauty clinics streamline bookings, memberships, and day-to-day
+operations. By creating an account or using the software, you agree to the terms
+below.
 
-## Cancellation
+## Your account
 
-We understand plans change. If you need to cancel or reschedule, please let us
-know **at least 24 hours before** your appointment so we can offer the slot to
-another guest. Cancellations made within the 24-hour window may be treated as a
-late cancellation and could be subject to the no-show terms below.
+You are responsible for keeping your DINGG login details secure and for the
+activity that happens under your account. Please give us accurate business
+details when you sign up, and keep them up to date so your bookings, reports, and
+client records stay reliable.
 
-You can browse [all salon & spa services mumbai](/services) and adjust your
-booking any time before the window closes.
+You can explore the full range of [salon, spa, and beauty clinic
+software](/services) and choose the plan that fits how your business works.
 
-## No-show
+## Acceptable use
 
-If you miss an appointment without letting us know, a no-show fee of **50% of
-the booked service value** may apply to your next visit. This covers the time
-our stylists and therapists set aside for you. Letting us know in advance always
-helps us avoid this.
+DINGG is built to make managing your business effortless and enjoyable. Please
+use it lawfully and only for running your own salon, spa, or clinic. Don't
+attempt to disrupt the service, access data that isn't yours, or resell access
+without our written agreement.
 
-## Late arrival
+## Subscriptions and billing
 
-Please arrive a few minutes ahead of your appointment. If you arrive late, we
-will do our best to complete your full service, but we may need to shorten it so
-the next guest isn't delayed. Arrivals more than 15 minutes late may be treated
-as a no-show when the remaining time isn't enough to deliver the service well.
+Paid plans renew on the cycle shown at sign-up. Fees for the current billing
+period are due when that period begins. You can change or cancel your plan before
+the next renewal; changes take effect from the following cycle. The features
+included in each plan are described at the time of purchase.
 
-## Refunds
+## Service availability
 
-Service charges are due once a service has been performed. If something wasn't
-right with your service, tell us within 7 days and we will look into it and make
-it right. Prepaid packages and memberships follow the terms shared at the time
-of purchase. Retail product returns are accepted on unopened items within 7 days
-of purchase.
+We work hard to keep DINGG running smoothly so your bookings and records are
+there when you need them. From time to time we may carry out maintenance or
+release updates, and we'll aim to keep any interruption brief. Specific
+availability commitments, where they apply, are set out in your plan.
 
-## Service standards
+## Your data
 
-Our team takes pride in careful, consistent work. If you're not happy with a
-service, let us know before you leave — or within 7 days — and we will arrange a
-complimentary touch-up or correction wherever possible. Outcomes can vary with
-hair type, skin, and home care, so we'll always talk you through what to expect
-before we begin.
+The client records, bookings, and reports you create in DINGG belong to you. We
+process this information to provide the software and keep it working for your
+business. How we handle personal information is explained in our
+[privacy policy](/privacy).
+
+## Changes to these terms
+
+As DINGG grows and adds new capabilities, we may update these terms. When we make
+a meaningful change, we'll let account holders know. Continuing to use the
+software after an update means you accept the revised terms.
 
 ## Contact
 
-Questions about these terms or an upcoming visit? Reach the team at Avenue salon
-in Mumbai, or [book your appointment now](/contact) and we'll help you find a
-time that works.
+Questions about these terms? Visit [dingg.app](https://dingg.app/) to learn more
+about DINGG and get in touch with our team.
