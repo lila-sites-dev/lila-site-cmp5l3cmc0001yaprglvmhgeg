@@ -1,38 +1,38 @@
 ---
 title: Memberships
-description: Avenue salon memberships are coming soon to Mumbai. Join the waitlist to be first in line.
+description: Run salon and spa memberships with DINGG — simple plans, member pricing, and easy booking for your business in mumbai.
 sections:
   - type: hero
     variant: gradient-canvas
     eyebrow: Memberships
-    title: Save on every visit
-    subtitle: Avenue salon memberships are on the way. Join the waitlist now and we'll reach out the moment they go live.
-    ctaText: Join the waitlist
+    title: Memberships, built into DINGG
+    subtitle: DINGG gives your salon, spa, or beauty clinic an effortless way to run memberships — clear plans, member pricing, and bookings that manage themselves.
+    ctaText: Talk to DINGG
     ctaHref: /contact
   - type: services-grid
     variant: feature-cards
-    heading: How membership will work
+    heading: How DINGG memberships work
     items:
       - title: One simple plan
-        body: A clear membership where you know what you pay and what you get back, every time you visit.
+        body: Set up a membership where members know exactly what they pay and what they get back on every visit.
         icon: "01"
       - title: Member pricing
-        body: Member rates on the salon and spa services you already book with us in Mumbai.
+        body: Apply member rates automatically to the salon and spa services they book, with no manual tracking.
         icon: "02"
       - title: Easy booking
-        body: Reserve your slot and manage visits from one place, so every appointment stays effortless.
+        body: Members reserve slots and manage their visits from one place, so every appointment stays effortless.
         icon: "03"
   - type: prose
   - type: cta
     variant: centered-band
-    title: Become a member
-    subtitle: Be first in line when Avenue salon memberships launch.
-    ctaText: Become a member
+    title: Bring memberships to your business with DINGG
+    subtitle: See how DINGG memberships fit your salon, spa, or beauty clinic in mumbai.
+    ctaText: Talk to DINGG
     ctaHref: /contact
 ---
 
-## Memberships coming soon
+## Memberships, made effortless with DINGG
 
-Avenue salon memberships are launching soon in Mumbai. We're building a simple loyalty plan around the treatments you love — so you can see exactly what you pay and exactly what you get back on every visit.
+DINGG makes salon, spa, and beauty clinic memberships effortless to run. Build a simple loyalty plan around the treatments your clients love — so they can see exactly what they pay and exactly what they get back on every visit.
 
-While we finish the details, you can still explore [all salon & spa services mumbai](/services) and reserve a chair today. Want a spot the moment memberships go live? You can [book your appointment now](/contact) to join the waitlist, and we'll tell you more in person.
+Explore [all salon & spa software mumbai](/services) and see how DINGG fits your business. Ready to get started? You can [book your appointment now](/contact) to talk it through with our team.
