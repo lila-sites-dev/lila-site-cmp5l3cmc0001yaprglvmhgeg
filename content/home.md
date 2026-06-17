@@ -28,9 +28,13 @@ sections:
   - type: prose
     html: '<p>Avenue salon brings together <a href="/services">all salon &amp; spa services mumbai</a> under one roof. New here? Start with <a href="/services/example">example in mumbai</a>, then <a href="/contact">book your appointment now</a>.</p>'
   - type: cta
-    variant: centered-band
+    variant: split-with-form
     title: "Book your visit to Avenue salon"
-    body: "Tell us what you're looking for and we'll find a time that works for you in mumbai. We're here to make your next salon, spa, or beauty visit effortless."
-    ctaText: "Book an appointment"
+    body: "Tell us what you're looking for and we'll find a time that works for you in mumbai. Leave your details here and we'll confirm your salon, spa, or beauty appointment — no need to call ahead."
+    ctaText: "Request my appointment"
     ctaHref: "/contact"
+    formFields:
+      - { name: name, label: "Your name", required: true }
+      - { name: phone, label: "Phone number", required: true }
+      - { name: service, label: "Service you'd like (salon, spa, or beauty)", required: false }
 ---
