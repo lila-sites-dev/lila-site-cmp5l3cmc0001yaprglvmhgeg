@@ -1,12 +1,12 @@
 ---
-title: "Avenue salon"
-description: "Avenue salon in mumbai — salon, spa, and beauty clinic services with easy online appointment booking. Book your visit today."
+title: "DINGG: Salon, Spa & Beauty Clinic Software — All in One Place"
+description: "DINGG is all-in-one software for salons, spas, and beauty clinics. Streamline booking, appointments, and day-to-day management in one place."
 sections:
   - type: hero
     variant: gradient-canvas
-    eyebrow: "Salon, spa & beauty clinic · mumbai"
-    title: "Salon, spa & beauty care, all in one place"
-    subtitle: "Avenue salon brings salon, spa, and beauty clinic services together in mumbai, with simple online booking."
+    eyebrow: "All-in-one salon, spa & beauty clinic software"
+    title: "Salon, spa & beauty clinic management made effortless"
+    subtitle: "DINGG brings online booking, appointments, and day-to-day management together in one place — so running your salon, spa, or beauty clinic feels effortless and enjoyable."
     ctaText: "Book an appointment"
     ctaHref: "/contact"
   - type: services-grid
