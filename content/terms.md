@@ -7,7 +7,19 @@ sections:
     title: Terms & cancellation
     subtitle: Clear, fair terms so every visit to Avenue salon runs smoothly — for you and the team caring for you.
     eyebrow: Avenue salon · Mumbai
+    ctaText: Book your appointment now
+    ctaHref: /contact
   - type: prose
+  - type: cta
+    variant: split-with-form
+    title: Questions before you book?
+    subtitle: Send the Avenue salon team a quick note and we'll help you find a time that works.
+    ctaText: Book your appointment now
+    ctaHref: /contact
+    formFields:
+      - { name: name, label: Your name, required: true }
+      - { name: phone, label: Phone, required: true }
+      - { name: message, label: How can we help? }
 ---
 
 These terms cover how bookings, cancellations, and refunds work at Avenue salon
