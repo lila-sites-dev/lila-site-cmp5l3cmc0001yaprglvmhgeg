@@ -1,48 +1,62 @@
 ---
-title: Late-Night Booking Software for Salons & Spas
-description: Your front desk closes at 8pm — DINGG keeps taking bookings. All-in-one salon, spa, and beauty clinic software that lets clients book anytime, day or night.
+title: Late-Night Booking for Mumbai Salons & Spas
+description: Your front desk closes at 8pm — your bookings don't have to. See how DINGG salon and spa software keeps taking appointments online after hours.
+sections:
+  - type: hero
+    variant: centered-stacked
+    eyebrow: For Mumbai salons & spas
+    title: Bookings Don't Stop When You Close at 8pm
+    subtitle: DINGG salon and spa booking software keeps taking appointments online, long after your front desk has gone home for the night.
+    ctaText: book your appointment now
+    ctaHref: /contact
+  - type: services-grid
+    variant: feature-cards
+    heading: Why late-night booking matters
+    items:
+      - title: Capture after-hours demand
+        body: When your salon closes at 8pm, a client browsing at 10pm can still book online with DINGG instead of moving on.
+        icon: "01"
+      - title: One all-in-one system
+        body: DINGG is comprehensive, all-in-one software that streamlines salon, spa, and beauty clinic operations from a single place.
+        icon: "02"
+      - title: Effortless to manage
+        body: Late slots and early mornings stay effortless and enjoyable for your team to manage, with no extra desk work after closing.
+        icon: "03"
+  - type: prose
+  - type: cta
+    variant: centered-band
+    title: Ready to keep your books open after hours?
+    subtitle: DINGG provides comprehensive solutions to streamline salon, spa, and beauty clinic operations — and to keep appointments flowing after 8pm.
+    ctaText: book your appointment now
+    ctaHref: /contact
 ---
 
-# Bookings That Never Close at 8pm
+## Your doors close at 8pm. Your booking page never has to.
 
-Your salon turns the lights off at 8pm. Your clients don't. They scroll, plan,
-and decide late at night — long after your front desk has gone home. Every
-booking they can't make in that window is a booking that walks to whoever was
-still open online.
+Most salons and spas in Mumbai close their front desk by 8pm. But the people
+who want to book you don't stop scrolling at 8pm — they look at 9, at 10, on
+their way home from work, after the kids are asleep. If there's no easy way to
+book in that moment, the appointment goes somewhere else.
 
-DINGG closes that gap. As all-in-one salon, spa, and beauty clinic software,
-DINGG keeps your booking page live around the clock, so an after-hours request
-becomes a confirmed appointment instead of a missed call in the morning.
+DINGG is salon, spa, and beauty clinic booking software built to close that gap.
+It provides comprehensive solutions to streamline salon, spa, and beauty clinic
+operations, so taking a booking at 10pm is no different from taking one at noon —
+the request lands in the same all-in-one system your team already works from.
 
-## Why late-night booking matters
+## Built around how late-night demand actually works
 
-When the desk is unattended, DINGG keeps working in the background:
+- **No missed evening bookings.** When your team has gone home, clients can still
+  reserve a slot online instead of waiting for a callback that may come too late.
+- **One place for everything.** Bookings, schedules, and day-to-day management
+  live together, so a late request doesn't mean a separate inbox to check.
+- **Simple for your team.** DINGG keeps management effortless and enjoyable, so
+  adding late or early appointments never adds friction to the morning.
 
-- **Always-on online booking.** Clients pick a service and a time whenever it
-  suits them — your availability is the only thing that decides what they can
-  request.
-- **Effortless mornings.** You open to a clean, organised schedule instead of a
-  voicemail backlog, because DINGG is built to streamline salon, spa, and beauty
-  clinic operations and make management enjoyable.
-- **One calm system.** Late-night bookings flow into the same all-in-one
-  software you already run the salon on — no second tool, no double entry.
+## Explore the rest of the platform
 
-## Built for the way you actually work
-
-DINGG provides comprehensive solutions for salon, spa, and beauty clinic
-operations, so late-night booking isn't a bolt-on — it's part of one connected
-system. Whether you run a salon, a spa, or a beauty clinic, the after-hours
-request lands where the rest of your day already lives.
-
-Explore [all salon & spa services mumbai](/services) to see how the pieces fit
-together, or look at a comparable build like [example mumbai](/services/example)
-to picture it for your own space.
-
-## Stop losing the 8pm-to-midnight crowd
-
-The clients who go quiet after closing time are the easiest ones to win back —
-they just need a way to say yes when they're ready. Give them DINGG, and the
-after-hours window turns into tomorrow's full chair.
-
-Ready to keep the bookings coming after dark? [book your appointment now](/contact)
-and get started with DINGG.
+Late-night booking is one piece of a wider toolkit. Browse
+[all salon & spa services mumbai](/services) to see how the pieces fit together,
+or take a look at our [example mumbai](/services/example) page for how a single
+service is set up. When you're ready, our team can walk you through it —
+[book your appointment now](/contact) and we'll show you how DINGG keeps your
+books open after 8pm.
